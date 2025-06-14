@@ -1,5 +1,5 @@
-        // if(didswap == 0)
+        // cout<<endl;
+        // for(auto it: prefixsum)
         // {
-        //     cout<<"\n The given array is already sorted !"<<endl;
-        //     break;
+        //     cout<<it.first<<" - "<<it.second<<endl;
         // }
